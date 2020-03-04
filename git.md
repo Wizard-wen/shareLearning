@@ -15,6 +15,6 @@
 *  git add . 合并所有的文件
 *  git commit -m 将文件提交到本地
 
-*  bbb
+*  bbbbbbbbb
 
 *  git pull origin master 
