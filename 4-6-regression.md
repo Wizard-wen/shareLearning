@@ -40,3 +40,7 @@ for iteration in range(n_iterations):
 > 使用随机梯度下降（待补充）
 
 > 小批量梯度下降
+# 关于gradient descent
+> 原理为泰勒展开式，运用的条件为：x接近x0时，故学习率不能太高
+
+> 偏导数确定的是方向，学习率确定的是“步伐”的大小
